@@ -1,0 +1,2 @@
+# awesome-insurance
+sample template
